@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to bottom right, rgb(255, 238, 0) 20%, rgb(0, 255, 13) 45%, rgb(4, 0, 255) 100%);
+}
+
+.heading{
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    font-size: 28px;
+    border-radius: 6px;
+}
+
+#back{
+    margin: 18px;
+    color: cyan;
+    font-size: 17px;
+    background-color: red;
+    float: right;
+    border-radius: 6px;
+}
+
+#status {
+    font-size: 23px;
+    margin-left: 70px;
+}
+
+#number_of_objects_detected{
+    font-size: 18px;
+    margin-left: 55px;
+    margin-bottom: 30px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 10px solid rgb(255, 102, 0);
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 20px;
+}

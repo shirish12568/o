@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to bottom right,  rgb(217, 0, 255) 25%, rgb(4, 0, 255) 50%, rgb(0, 255, 0) 75%, rgb(227, 252, 0) 100%);
+}
+
+.heading{
+    color: rgb(0, 255, 200);
+    font-size: 27px;
+    border-radius: 6px;
+    width: 100%;
+    margin: 0;
+}
+
+.objects{
+    font-size: 23px;
+    font-family: "cursive";
+    font-variant-caps: petite-caps;
+    font-weight: bold;
+    width: 25%;
+    border-radius: 20px;
+}
